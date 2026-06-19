@@ -30,7 +30,7 @@ Users can search any city and get current weather details like temperature, weat
 ---
 ## Live Demo 
 
-live link : 
+live link : https://abhijith-e0.github.io/weather-application/
 
 ---
 
