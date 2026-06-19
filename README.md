@@ -33,6 +33,9 @@ Users can search any city and get current weather details like temperature, weat
 live link : https://abhijith-e0.github.io/weather-application/
 
 ---
+## Screenshot
+
+![weather application](images/screenshot.png)
 
 ## Project Structure
 
